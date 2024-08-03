@@ -14,7 +14,7 @@ A responsive and interactive dictionary web app built with HTML, CSS (Bootstrap)
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://dictionairy.vercel.app/).
 
 ## Screenshots
 
